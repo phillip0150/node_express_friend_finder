@@ -1,5 +1,4 @@
-
-
+//Friends array with objects
 var friends = [
     {
         "name":"Ahmed",

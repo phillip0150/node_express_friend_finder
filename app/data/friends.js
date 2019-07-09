@@ -79,6 +79,22 @@ var friends = [
             4,
             5
         ]
+    },
+    {
+        "name":"Juan",
+        "photo":"https://thispersondoesnotexist.com/image",
+        "scores":[
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
     }
 ];
 

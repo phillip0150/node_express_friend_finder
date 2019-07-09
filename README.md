@@ -50,8 +50,7 @@ If you do not enter all inputs in, an alert will appear.
 
 ### Routes
 
-This program uses three functions `selectItem()`, `seeIfItemExist(itemID)`, and `enoughInStock(stockNumber, theItem)`.
-
+This program uses express to create routing to different pages. Because of this, you will not see `.html` at the end of web page. The routing is handled in two files. One file hadles the api, the other handles the html.
 
 
 
